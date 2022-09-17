@@ -1,0 +1,6 @@
+Ivanov 1   5 10
+Markov 1 6 10
+Bobov 1 1    10
+Olegov 1 11 10
+Ivanov 2       13 20
+Markov 2 2 20
